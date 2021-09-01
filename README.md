@@ -11,7 +11,7 @@ Vitor Santos de Oliveira
 Wellington Wagner F. Sarmento
 
 ## Colaboração
-Este código é também inspirado na aplicação feita pelo aluno Mattheus Del Vianpple e auxiliado por José Carlos Wolff.
+Este código é também inspirado na aplicação feita pelo aluno Mattheus Del Vianpple e auxiliado pelos programadores da equipe de Projeto Integrado I, José Carlos Wolff e Mauro Victor Pimentel.
 
 ## Licença
 
